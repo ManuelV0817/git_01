@@ -17,50 +17,76 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 How doth the little crocodile 
+
 Improve his shining tail, 
+
 And pour the waters of the Nile 
+
 On every golden scale! 
+
 How cheerfully he seems to grin,
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 Before man came to blow it right
+ 
  The wind once blew itself untaught,
+
 And did its loudest day and night
+
 In any rough place where it caught.
+ 
  Man came to tell it what was wrong
  
  
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 The sun was shining on the sea,
+
 Shining with all his might:
+
 He did his very best to make
+
 The billows smooth and bright —
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
 The sky turns pale with morning light,
+
 As shadows flee the edge of night.
+
 A breeze rolls soft across the land,
+
 Like time itself with outstretched hand.
 
+
 The dew clings tight to blades of grass,
+
 Each drop a gem the sun will pass.
+
 Birdsong lifts the sleeping trees,
+
 And dances gently on the breeze.
 
+
 The world, reborn with every day,
+
 Wipes yesterday’s regrets away.
+
 The brook hums low, a lullaby,
+
 While clouds drift lazy in the sky.
 
 No trumpets sound, no loud parade,
+
 Just golden light and shifting shade.
+
 A silent promise softly made—
+
 That beauty blooms, though all things fade.
 
 So walk with hope beneath the sun,
+
 For every day is just begun.
 
